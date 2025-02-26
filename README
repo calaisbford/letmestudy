@@ -1,0 +1,19 @@
+# New-Password
+
+## Generate new password
+
+#### Installation
+
+Import-module New-Password
+
+#### Examples
+
+- 1) Generate new password (Of default length 18 Char)
+```powershell
+New-Password
+```
+
+- 2) Provide Maximum Length of the Password
+```powershell
+New-Password -MaxLength 10
+```
