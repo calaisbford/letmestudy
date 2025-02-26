@@ -98,7 +98,7 @@ PrivateData = @{
         Tags = 'lms','LetMeStudy','passwd'
 
         # A URL to the license for this module.
-        LicenseUri = 'https://mit-license.org/'
+        LicenseUri = 'https://raw.githubusercontent.com/calaisbford/letmestudy/refs/heads/main/LICENSE'
 
         # A URL to the main website for this project.
         # ProjectUri = ''
